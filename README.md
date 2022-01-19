@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arvegadev
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js and vue.js
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in web development, games development, CI/CD
+- 🌱 I’m currently working in [prefapp](https://prefapp.es/) company
+- 💞️ I’m [EstusFlask Organization](https://github.com/EstusFlask) owner
 - 📫 How to reach me arvegadev@hotmail.com
 
 <!---
