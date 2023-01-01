@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arvegadev
-- 👀 I’m interested in web development, games development, CI/CD
+- 👀 I’m interested in web development, game development, CI/CD
 - 🌱 I’m currently working in [prefapp](https://prefapp.es/) company
-- 💞️ I’m [EstusFlask Organization](https://github.com/EstusFlask) owner
 - 📫 How to reach me arvegadev@hotmail.com
 
 <!---
