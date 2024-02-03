@@ -1,6 +1,6 @@
 ---
 title: My Page Title
-nav: index page1
+subtitle: test post 1
 ---
 
 # test post 1
