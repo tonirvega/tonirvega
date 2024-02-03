@@ -1,4 +1,4 @@
-
+theme: jekyll-theme-midnight
 lsi: false
 safe: true
 source: [your repo's top level directory]
